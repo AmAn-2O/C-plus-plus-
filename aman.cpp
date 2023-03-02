@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    string s1,s2,s3;
-    cin>>s1>>s2>>s3;
-    cout<<s1<<s2<<s3;
+    string s,s2,s3;
+    cin>>s>>s2>>s3;
+    cout<<s<<s2<<s3;
     return 0;
 }
