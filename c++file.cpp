@@ -36,7 +36,7 @@ int main()
            
       case 6: Rs1=amount/1;
               amount=amount%1;
-              cout<<"No of 1 Rupee notes required are="<<Rs1<<endl;
+              cout<<" No of 1 Rupee notes required are="<<Rs1<<endl;
            }
 }
 
