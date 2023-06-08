@@ -6,7 +6,7 @@ int main(){
 int n;
 cout<<"enter the no. ";
 cin>>n;
-cout<<"aman"<<endl;
+cout<<"Amandeep"<<endl;
 int a=0;
 int b=1;
 cout<<a<<" "<<b<<endl;
